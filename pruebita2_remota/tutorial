@@ -1,0 +1,6 @@
+1. 1 terminal cmd para server, 1 terminal cmd por cliente (n clientes)
+2. acceder ruta archivos: cd "ruta"
+3. iniciar server (terminal server) con comando: iniciar_servidor.cmd
+4. iniciar cada cliente (terminal cada cliente) con comando: iniciar_cliente.cmd
+5. ingresar nombre de usuario por usuario
+6. chatear y comandos 
